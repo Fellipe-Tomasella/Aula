@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904104703537",
+    "project_id": "aprendendo-ae752",
+    "storage_bucket": "aprendendo-ae752.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904104703537:android:781d57e023c33b64054710",
+        "android_client_info": {
+          "package_name": "com.mycompany.aula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904104703537-aboe7tjqhooq8ng2o14oiq4eh7u5ki5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwG0O-uE7ZihPmeI3fW5cCc5DiEgB-8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904104703537-aboe7tjqhooq8ng2o14oiq4eh7u5ki5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
